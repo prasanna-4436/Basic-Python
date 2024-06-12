@@ -1,5 +1,4 @@
 """
-    Created on Mon Mar 11 13:50:31 2024
     write a program to check the type of triangle where you take the input from user and classify accordingly into equivlateral
     isosceles and scalane
     """
